@@ -33,7 +33,7 @@
      <linkfile src="imx/README" dest="README-IMXBSP"/>
   </project>
 	 
-  <project remote="JK-EA4988" name="meta-murata-wireless" path="sources/meta-murata-wireless" revision="ea71765cef77838be37e2cfe79008acc4af17094" />
+  <project remote="JK-EA4988" name="meta-murata-wireless" path="sources/meta-murata-wireless" revision="55fe8ecbc86f4b1027efb10fba8a54ce0b4d6476" />
 
 
 </manifest>
